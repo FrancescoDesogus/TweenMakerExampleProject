@@ -1,6 +1,7 @@
 /Binaries/
 /Intermediate/
 /Saved/
-/Plugins/
+/Plugins/TweenMaker/*
 config.ini
 qtBuildPreset.xml
+TweenMakerPlugin.sln
