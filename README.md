@@ -16,7 +16,7 @@ The plugin can be purchased in the [Unreal Engine marketplace](https://www.unrea
 Installation Guide
 -----------------------  
 
-Create a "Plugin" folder and copy the plugin inside it.
+Create a "Plugin" folder and copy the "TweenMaker" plugin folder inside it.
 
 -----------------------
 Screenshots
