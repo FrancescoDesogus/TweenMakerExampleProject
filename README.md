@@ -13,12 +13,6 @@ The C++ documentation can be found [here](http://fdesogus.co.nf/tweenmaker/).
 The plugin can be purchased in the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/tweenmaker).
 
 -----------------------
-Installation Guide
------------------------  
-
-Create a "Plugin" folder and copy the "TweenMaker" plugin folder inside it.
-
------------------------
 Screenshots
 -----------------------  
 
