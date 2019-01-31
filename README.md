@@ -1,6 +1,6 @@
 # TweenMakerExampleProject
 
-### This project requires the TweenMaker plugin, which can be found here ...
+### This project requires the TweenMaker plugin, which can be found [here](https://www.unrealengine.com/marketplace/tweenmaker)
 
 The TweenMaker plugin allows a user to easily create animations at runtime, both in Blueprints and C++.
 
