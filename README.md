@@ -1,4 +1,4 @@
-# TweenMakerExampleProject
+# TweenMakerExampleProject (version 1.4)
 
 ### This project requires the TweenMaker plugin, which can be found [here](https://www.unrealengine.com/marketplace/tweenmaker)
 
@@ -9,8 +9,6 @@ A packaged version of this project (built in version 4.19) can be found [here](h
 The plugin's documentation can be found [here](https://docs.google.com/document/d/19XEcSc4zrrN6bB_G9Hjww0auFVJfyzeMG-v2y9iYM34/).
 
 The C++ documentation can be found [here](http://fdesogus.co.nf/tweenmaker/).
-
-The plugin can be purchased in the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/tweenmaker).
 
 -----------------------
 Screenshots
