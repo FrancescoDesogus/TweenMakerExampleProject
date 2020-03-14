@@ -14,13 +14,9 @@ The C++ documentation can be found [here](http://fdesogus.co.nf/tweenmaker/).
 Screenshots
 -----------------------  
 
-![](http://i66.tinypic.com/24me43o.png)
+![](https://i.ibb.co/YW7Lb8h/5.png)
 
-![](http://i68.tinypic.com/25qsqd1.png)
+![](https://i.ibb.co/gJpsKJ3/6.png)
 
-![](http://i67.tinypic.com/wlq26p.png)
-
-![](http://i66.tinypic.com/x0z142.png)
-
-![](http://i63.tinypic.com/2eap76f.png)
+![](https://i.ibb.co/LRwn633/7.png)
 
