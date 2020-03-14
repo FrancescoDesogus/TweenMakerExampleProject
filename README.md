@@ -1,4 +1,4 @@
-# TweenMakerExampleProject (version 1.4)
+# TweenMakerExampleProject (version 1.5)
 
 ### This project requires the TweenMaker plugin, which can be found [here](https://www.unrealengine.com/marketplace/tweenmaker)
 
